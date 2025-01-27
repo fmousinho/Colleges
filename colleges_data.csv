@@ -1,0 +1,53 @@
+College Name,Acceptance Rate,WSJ Rank,Has Lacrosse,Division,Conference,US News Rank
+Babson College,0.25,2,True,NCAA Division III,New England Women's and Men's Athletic Conference,34
+Claremont McKenna College,0.1,5,True,NCAA Division III,Southern California Intercollegiate Athletic Conference,8
+Bentley University,0.45,11,True,NCAA Division II,Northeast-10 Conference,68
+Harvey Mudd College,0.13,20,True,NCAA Division III,Southern California Intercollegiate Athletic Conference,36
+Washington University in St. Louis,0.11,32,True,NCAA Division III,University Athletic Association,24
+Swarthmore College,0.08,35,True,NCAA Division III,Centennial Conference,4
+Augustana College,0.68,37,True,NCAA Division III,College Conference of Illinois and Wisconsin,105
+Washington and Lee University,0.16,50,True,NCAA Division III,Old Dominion Athletic Conference,17
+Albion College,0.68,54,True,NCAA Division III,Michigan Intercollegiate Athletic Association,127
+Carnegie Mellon University,0.11,56,True,NCAA Division III,University Athletic Association,22
+Colby College,0.08,64,True,NCAA Division III,New England Small College Athletic Conference,17
+University of La Verne,0.7,80,True,NCAA Division III,Southern California Intercollegiate Athletic Conference,187
+Wellesley College,0.13,86,True,NCAA Division III,New England Women's and Men's Athletic Conference,5
+Haverford College,0.13,88,True,NCAA Division III,Centennial Conference,17
+Ohio Northern University,0.78,89,True,NCAA Division III,Ohio Athletic Conference,151
+Worcester Polytechnic Institute,0.52,90,True,NCAA Division III,New England Women's and Men's Athletic Conference,67
+The College of New Jersey,0.49,94,True,NCAA Division III,New Jersey Athletic Conference,76
+Rose-Hulman Institute of Technology,0.74,98,True,NCAA Division III,Heartland Collegiate Athletic Conference,1
+Emory University,0.11,103,True,NCAA Division III,University Athletic Association,24
+Colorado School of Mines,0.56,104,True,NCAA Division II,Rocky Mountain Athletic Conference,67
+Montclair State University,0.89,106,True,NCAA Division III,New Jersey Athletic Conference,187
+University of Redlands,0.79,107,True,NCAA Division III,Southern California Intercollegiate Athletic Conference,137
+Franklin and Marshall College,0.35,110,True,NCAA Division III,Centennial Conference,36
+Muhlenberg College,0.58,111,True,NCAA Division III,Centennial Conference,76
+Adelphi University,0.74,112,True,NCAA Division II,Northeast-10 Conference,187
+Hampden-Sydney College,0.64,115,True,NCAA Division III,Old Dominion Athletic Conference,127
+DePauw University,0.52,117,True,NCAA Division III,North Coast Athletic Conference,46
+Amherst College,0.07,120,True,NCAA Division III,New England Small College Athletic Conference,2
+Washington & Jefferson College,0.78,123,True,NCAA Division III,Presidents' Athletic Conference,127
+University of Scranton,0.8,125,True,NCAA Division III,Landmark Conference,115
+Stevens Institute of Technology,0.47,127,True,NCAA Division III,Middle Atlantic Conferences,67
+Thomas Jefferson University,0.75,128,True,NCAA Division II,Central Atlantic Collegiate Conference,137
+Illinois Wesleyan University,0.6,132,True,NCAA Division III,College Conference of Illinois and Wisconsin,76
+Kalamazoo College,0.68,135,True,NCAA Division III,Michigan Intercollegiate Athletic Association,105
+Clarkson University,0.77,138,True,NCAA Division III,Liberty League,137
+Rensselaer Polytechnic Institute,0.49,143,True,NCAA Division III,Liberty League,51
+Hamline University,0.82,156,True,NCAA Division III,Minnesota Intercollegiate Athletic Conference,137
+Salve Regina University,0.78,160,True,NCAA Division III,Commonwealth Coast Conference,137
+Bowdoin College,0.09,161,True,NCAA Division III,New England Small College Athletic Conference,6
+Gettysburg College,0.4,166,True,NCAA Division III,Centennial Conference,51
+Wentworth Institute of Technology,0.78,172,True,NCAA Division III,Commonwealth Coast Conference,187
+Williams College,0.1,174,True,NCAA Division III,New England Small College Athletic Conference,1
+McDaniel College,0.78,176,True,NCAA Division III,Centennial Conference,137
+Wesleyan University,0.12,177,True,NCAA Division III,New England Small College Athletic Conference,17
+St. Olaf College,0.4,183,True,NCAA Division III,Minnesota Intercollegiate Athletic Conference,67
+Union College,0.38,186,True,NCAA Division III,Liberty League,46
+SUNY Oneonta,0.68,187,True,NCAA Division III,State University of New York Athletic Conference,187
+Susquehanna University,0.8,189,True,NCAA Division III,Landmark Conference,127
+Pomona College,0.07,191,True,NCAA Division III,Southern California Intercollegiate Athletic Conference,4
+Dickinson College,0.4,192,True,NCAA Division III,Centennial Conference,51
+Centre College,0.4,193,True,NCAA Division III,Southern Athletic Association,67
+St. Lawrence University,0.5,197,True,NCAA Division III,Liberty League,67
